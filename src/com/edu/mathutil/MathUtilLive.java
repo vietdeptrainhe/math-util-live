@@ -19,6 +19,9 @@ public class MathUtilLive {
         long result = MathUtil.getFatorial(20);
         System.out.println("5! = 120; actual: " + result);
         System.out.println("123");
+        
+        System.out.println("9374895");
+
     }
     
 }
