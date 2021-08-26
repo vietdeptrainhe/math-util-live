@@ -22,6 +22,7 @@ public class MathUtil {
         long product = 1;
         for (int i = 2; i <= n; i++)
             product *= i;
+            //by: Nguyen Phuoc Viet
         return product;
     }
 }
